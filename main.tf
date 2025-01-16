@@ -18,7 +18,7 @@ terraform {
     organization = "OmegaWolf1"
 
     workspaces {
-      name = "learn-terraform-github-actions2"
+      name = "learn-terraform-github-actions-2"
     }
   }
 }
